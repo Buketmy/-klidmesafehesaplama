@@ -1,2 +1,2 @@
-# öklidmesafehesaplama
-Öklid mesafesini hesaplama
+# oklidmesafehesaplama
+Oklid mesafesini hesaplama
